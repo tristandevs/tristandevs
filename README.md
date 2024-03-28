@@ -1,6 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
-
-<h2 align="center">About Me</h2>
+<h2 align="center">Skills</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
