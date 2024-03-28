@@ -1,7 +1,7 @@
 <h2 align="center">Skills</h2>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/shuttleai">
     <img src="https://skillicons.dev/icons?i=python,tailwind,react,nextjs,ts,html,css,vscode" />
   </a>
 </p>
