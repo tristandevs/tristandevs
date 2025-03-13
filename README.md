@@ -7,6 +7,6 @@
 
 <p align="left">
   <a href="https://github.com/shuttleai">
-    <img src="https://skillicons.dev/icons?i=python,tailwind,react,nextjs,ts,html,css,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,tailwind,react,nextjs,ts,html,css" />
   </a>
 </p>
